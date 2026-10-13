@@ -1,4 +1,4 @@
-# TP3 DVC — Détection de fraude bancaire
+# TP3 DVC Détection de fraude bancaire
 
 ELATTAR Abderrahman · EL MRHARI Marouane · 5IASD G7
 
